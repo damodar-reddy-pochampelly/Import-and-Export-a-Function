@@ -1,0 +1,1 @@
+const msgFunction = require("./exportFunction");
